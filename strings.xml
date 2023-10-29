@@ -4,14 +4,14 @@
     <string name="flyin"></string>
     <string-array name="cities">
         <item>Москва</item>
-        <item>Оттава</item>
-        <item>Лондон</item>
-        <item>Париж</item>
-        <item>Нью Йорк</item>
-        <item>Сеул</item>
-        <item>Берлин</item>
-        <item>Вашингтон</item>
-        <item>Прага</item>
+        <item>Орел</item>
+        <item>Новосибирск</item>
+        <item>Владивосток</item>
+        <item>Самара</item>
+        <item>Санкт-Петербург</item>
+        <item>Рига</item>
+        <item>Сочи</item>
+        <item>Улан-Удэ</item>
         <item>Иркутск</item>
     </string-array>
 </resources>
